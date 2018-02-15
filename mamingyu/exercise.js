@@ -7,7 +7,7 @@ exercise.min = function(unordered) {
     // -------------------------------	
     // ---------- Your Code ----------
     // -------------------------------	
-    console.log("hello test test with Derek on tuesday night EST 0156");
+    console.log("hello test test with Derek on tuesday night EST 0159");
     return 1;
 };
 
