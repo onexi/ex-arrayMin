@@ -2,6 +2,8 @@ var exercise = {};
 
 exercise.min = function(unordered) {
     var min;
+    unordered.sort();
+    mim = unordered[0];
 
     // Find the minimum value in an array
     // -------------------------------	
