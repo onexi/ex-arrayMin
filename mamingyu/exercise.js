@@ -2,12 +2,12 @@ var exercise = {};
 
 exercise.min = function(unordered) {
     var min;
-    console.log("hello test test with Derek on tuesday night EST 10191");
+    // console.log("hello test test with Derek on tuesday night EST 10191");
     // Find the minimum value in an array
     // -------------------------------	
     // ---------- Your Code ----------
     // -------------------------------	
-    console.log("hello test test with Derek on tuesday night EST 1019");
+    // console.log("hello test test with Derek on tuesday night EST 1019");
     return 2;
 };
 
